@@ -9,3 +9,7 @@ HTML file is generated and displays employee information cards (HMTL can be foun
 
 <img width="1440" alt="Screen Shot 2021-05-01 at 10 48 00 PM" src="https://user-images.githubusercontent.com/75192030/116803962-f75dbd80-aacf-11eb-81cd-c658bf7731dc.png">
 
+
+Link to walkthrough video 
+
+https://drive.google.com/file/d/1OpCl6QnBSP7wFYtQv8dlPUFZZmidsQqj/view
