@@ -1,0 +1,28 @@
+{
+  "name": "teamfiesta",
+  "version": "1.0.0",
+  "description": "Application generates basic employee profile info ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGrandbit/TeamFiesta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGrandbit/TeamFiesta/issues"
+  },
+  "homepage": "https://github.com/JGrandbit/TeamFiesta#readme",
+  "devDependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
+
